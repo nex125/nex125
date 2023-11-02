@@ -29,7 +29,7 @@ None of us like to write boiler code, it's a set of projects that allow us to de
 This is a template for the HUGO static site generator. I used to use it for my blog.
    
 ## :call_me_hand: Connect with me
-[![ilya.karzhenka@gmail.com](https://img.shields.io/badge/mark@struchkov.dev%20-%23168DE2.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ilya.karzhenka@gmail.com) 
-[![telegram](https://img.shields.io/badge/uPagge%20-%232CA5E0.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/nex22) 
+[![ilya.karzhenka@gmail.com](https://img.shields.io/badge/ilya.karzhenka%40gmail.com-%2523168DE2.svg?style=for-the-badge&logo=mail.ru)](mailto:ilya.karzhenka@gmail.com) 
+[![telegram](https://img.shields.io/badge/nex22-%232CA5E0.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/nex22) 
 ***
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/40397740/187086679-84d7cd96-4311-4454-b3c7-f44b47a2477c.svg)
