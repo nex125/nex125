@@ -1,7 +1,7 @@
 # Hi 👋 I'm Ilya Korzhenko
 🤪 [Who am i?](https://nex125.github.io)
 
-I am a Senior Java Developer. I am 26 years old of which 6 years of industrial development and a year of training.
+I am a Senior Java Developer. I am 28 years old of which 6 years of industrial development and a year of training.
 
 In my spare time I enjoy playing video games or meet with my friends. I am also fond of developing applications to improve my daily life.
 
